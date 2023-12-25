@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    border: 3px solid pink;
+    margin: 5px;
+    background-color: lightskyblue;
+}
+
+#conteiner{
+    background-color: yellow;
+}
+
+#block3{
+    width: 18%;
+}
+
+#block4{
+    width: 50%;
+}
+#block5{
+    width: 30%;
+}
+
+#block5{
+    position: relative;
+    bottom: 0;
+}
+
+.content{
+    display: flex;
+}
+.content div{
+    padding: 5px;
+    background-color: gray;
+}
